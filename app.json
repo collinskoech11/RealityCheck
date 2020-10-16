@@ -1,0 +1,12 @@
+{
+  "name": "reality-check",
+  "displayName": "reality-check",
+  "expo": {
+    "name": "reality-check",
+    "slug": "reality-check",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
